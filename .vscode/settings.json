@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.py": "python",
+        "user.h": "c",
+        "fs.h": "c",
+        "fcntl.h": "c"
+    }
+}
